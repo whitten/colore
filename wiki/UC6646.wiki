@@ -26,7 +26,7 @@
   # The System updates the Samian Navigator to display the new project.
 
 == Extensions ==
- * *E1.* Unknown System Error [[All]]:
+ * *E1.* Unknown System Error [![All]]:
   # The System terminates the New Project Wizard.
   # The System adds an error message to the System Log.
 
