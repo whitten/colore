@@ -16,16 +16,14 @@
 
 == Main Success Scenarios ==
  * *M1.* Create Project:
-  <ol>
-    <li>The Ontologist launches the New Project Wizard.</li>
-  </ol>
-  * *b.* The System displays the New Project Wizard.
-  * *c.* The Ontologist enters a name in the Project Name field.
-  * *d.* The System validates the project name.
-  * *e.* The Ontologist defines the project location.
-  * *f.* The Ontologist clicks Finish.
-  * *g.* The System generates the new project structure under the specified location.
-  * *h.* The System updates the Samian Navigator to display the new project.
+  # The Ontologist launches the New Project Wizard.
+  # The System displays the New Project Wizard.
+  # The Ontologist enters a name in the Project Name field.
+  # The System validates the project name.
+  # The Ontologist defines the project location.
+  # The Ontologist clicks Finish.
+  # The System generates the new project structure under the specified location.
+  # The System updates the Samian Navigator to display the new project.
 
 == Extensions ==
  *E1.* Unknown System Error *[All]*:
